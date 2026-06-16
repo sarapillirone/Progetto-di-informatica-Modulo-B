@@ -34,7 +34,3 @@ Prerequisiti:
 -MATLAB 
 -Database Toolbox di MATLAB (necessario per le funzioni di interazione con SQLite nel Blocco 8).
 -Una connessione internet attiva (per il download iniziale della sequenza dal server NCBI nel Blocco 1).
-
- -MATLAB 
- -Database Toolbox di MATLAB (necessario per le funzioni di interazione con SQLite nel Blocco 8).
--Una connessione internet attiva (per il download iniziale della sequenza dal server NCBI nel Blocco 1).
